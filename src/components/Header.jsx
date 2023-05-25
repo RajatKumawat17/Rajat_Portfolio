@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import {
   Box,
   Flex,
@@ -145,12 +146,7 @@ export default function Header() {
                   </Link>
                 </Text>
                 <Text fontSize="2xl" fontWeight="thin">
-                  <Link href="https://twitter.com/SilverKumawat17" isExternal>
-                    <Icon as={FaTwitter} /> @SilverKumawat17
-                  </Link>
-                </Text>
-                <Text fontSize="2xl" fontWeight="thin">
-                  <Link href="https://twitter.com/SilverKumawat17" isExternal>
+                  <Link href="/Rajat_Resume.pdf" isExternal>
                     <Icon as={FaFileCode} /> Download Resume
                   </Link>
                 </Text>
