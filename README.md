@@ -1,12 +1,13 @@
 # [Personal Website](https://rajat-portfolio-dev.netlify.app/)
 
-*Personal portfolio website made with React.Js and Chakra-UI Library*
+_Personal portfolio website made with React.Js and Chakra-UI Library_
 
 # Screenshots
-*Dark Mode*
+
+_Dark Mode_
 
 ![](https://i.imgur.com/IuoqdW0.png)
 
-*Light Mode*
+_Light Mode_
 
 ![](https://i.imgur.com/6Vzhqgb.png)
