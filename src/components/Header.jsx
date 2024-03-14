@@ -41,7 +41,7 @@ export default function Header() {
             <Box w="36" marginX="auto">
               <Img
                 borderRadius="full"
-                src="https://i.pinimg.com/originals/b0/87/b3/b087b3c8d66d073456152aceff907115.jpg"
+                src="/pfo.jpg"
               />
             </Box>
             <Box
@@ -77,8 +77,8 @@ export default function Header() {
                 <span className="highlighted-word">
                   Computer-Science student
                 </span>
-                , <span className="highlighted-word">frontend developer</span>{' '}
-                and <span className="highlighted-word">ML/AI enthusiast</span>.
+                , <span className="highlighted-word">Computer Vision Engineer</span>{' '}
+                and <span className="highlighted-word">ML/AI Enthusiast</span>.
               </Text>
             </Box>
             <Box justifyContent="center">
